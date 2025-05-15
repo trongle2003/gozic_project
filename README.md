@@ -5,4 +5,6 @@ Triển khai trên môi trường Java với Framework Spring Boot dựa trên m
 -Với Trang chủ dùng Bootstrap 5 kết hợp jstl để truyền dữ liệu của Product vào trong HomePage.  
 -Với Trang giới thiệu dùng Bootstrap 5 với Css để trang trí Page.  
 -Cơ sở dữ liệu được triển khai thông qua MySql và Docker.  
--Có thể test API thông qua PostMan.
+-Có thể test API thông qua PostMan.  
+Link youtube demo:  
+https://youtu.be/HtXMf4ybCHk
